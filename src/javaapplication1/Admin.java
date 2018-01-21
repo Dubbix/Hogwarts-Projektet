@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package javaapplication1;
-
+//he på daj
 import java.text.DateFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
