@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package javaapplication1;
-
+//Github suger röv så mycket så det är hetero 
 /**
  *
  * @author peteraltunkaynak
